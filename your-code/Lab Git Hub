@@ -1,0 +1,5 @@
+def print_greeting(your_name):
+    print("Hello world, from", your_name)
+
+your_name = "YourName"
+print_greeting(your_name)
